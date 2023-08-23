@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parsa Chowdhury</h1>
 <h3 align="center">A Software Engineer interested in full stack development and automation testing</h3>
-<img align="right" alt="Coding" width="400" src=“https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif”>
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-max-1mb.gif">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsachow&label=Profile%20views&color=0e75b6&style=flat" alt="parsachow" /> </p>
 
