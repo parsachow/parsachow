@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsachow&label=Profile%20views&color=0e75b6&style=flat" alt="parsachow" /> </p>
 
-- 🔭 I’m currently working on [Globetrotter](https://github.com/parsachow/Globetrotter)
+- 🔭 I’m currently working on my Portfolio(link coming soon)
 
-- 🌱 I’m currently learning **Django, Python**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
