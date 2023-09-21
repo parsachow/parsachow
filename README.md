@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parsa Chowdhury</h1>
-<h3 align="center">A Software Engineer interested in full stack development and automation testing</h3>
+<h3 align="center">A Software Engineer interested in full stack development and software automation testing</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-max-1mb.gif">
 
 
