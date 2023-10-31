@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [LostInNL](https://github.com/parsachow/LostInNL)
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - **[Portfolio](https://devportfolioparsa.onrender.com/)**
 
