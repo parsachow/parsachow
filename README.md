@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsachow&label=Profile%20views&color=0e75b6&style=flat" alt="parsachow" /> </p>
 
-- 🔭 I’m currently working on [LostInNL](https://github.com/parsachow/LostInNL)
-
 - 🌱 I’m currently learning **Django Rest Framework**
 
 - **[Portfolio](https://devportfolioparsa.onrender.com/)**
