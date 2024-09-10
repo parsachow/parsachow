@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsachow&label=Profile%20views&color=0e75b6&style=flat" alt="parsachow" /> </p>
 
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m currently learning **Django Channels and Websocket**
 
 - **[Portfolio](https://devportfolioparsa.onrender.com/)**
 
